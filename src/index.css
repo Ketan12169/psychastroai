@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(52, 52, 52);
+}
+* {
+  font-family: "Readex Pro" !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
